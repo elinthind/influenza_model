@@ -1,2 +1,2 @@
 # influenza_model
-Project for PHYS 498
+Mathematical model of spread of influenza in an epidemic (project for PHYS 498)
